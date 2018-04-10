@@ -1,6 +1,6 @@
 ---
 layout: docs
-permalink: contributing/
+permalink: info/
 ---
 
 # Information
